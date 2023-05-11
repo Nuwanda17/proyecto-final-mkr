@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon ./index.js",
-    "build": "echo 'Build successful!'"
+    "build": "echo 'Build successful!'",
+    "heroku-start": "nodemon ./index.js"
   },
   "keywords": [],
   "author": "",
