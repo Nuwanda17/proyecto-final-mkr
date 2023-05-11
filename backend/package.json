@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon ./index.js",
     "build": "echo 'Build successful!'",
-    "start": "node ./index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
