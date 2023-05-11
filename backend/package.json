@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon ./index.js",
-    "build": "echo 'Build successful!'"
+    "build": "echo 'Build successful!'",
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
